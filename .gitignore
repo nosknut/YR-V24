@@ -1,0 +1,4 @@
+.arduino/**
+.vscode/**
+.mqtt/**
+.node-red/**
